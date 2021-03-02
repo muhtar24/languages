@@ -1,0 +1,31 @@
+# Language            CharSet	Font Name
+Chinese_big5              136	MingLiU
+Chinese_simplified        134	Arial Unicode MS
+Czech                     238	Microsoft Sans Serif
+Debug_Chinese_big5        136	MingLiU
+Debug_Chinese_simplified  134	Arial Unicode MS
+Debug_Czech               238	Microsoft Sans Serif
+Debug_English               0	Microsoft Sans Serif
+Debug_French                0	Microsoft Sans Serif
+Debug_German                0	Microsoft Sans Serif
+Debug_Hungarian           204	Microsoft Sans Serif
+Debug_Italian               0	Microsoft Sans Serif
+Debug_Japanese            128	Microsoft Sans Serif
+Debug_Korean              129	Malgun Gothic
+Debug_Polish              238	Microsoft Sans Serif
+Debug_Portuguese            0	Microsoft Sans Serif
+Debug_Russian               0	Microsoft Sans Serif
+Debug_Spanish               0	Microsoft Sans Serif
+Debug_Turkish             162	Microsoft Sans Serif
+English                     0	Microsoft Sans Serif
+French                      0	Microsoft Sans Serif
+German                      0	Microsoft Sans Serif
+Hungarian                 204	Microsoft Sans Serif
+Italian                     0	Microsoft Sans Serif
+Japanese                  128	Microsoft Sans Serif
+Korean                    129	Malgun Gothic
+Polish                    238	Microsoft Sans Serif
+Portuguese                  0	Microsoft Sans Serif
+Russian                     0	Microsoft Sans Serif
+Spanish                     0	Microsoft Sans Serif
+Turkish                   162	Microsoft Sans Serif
